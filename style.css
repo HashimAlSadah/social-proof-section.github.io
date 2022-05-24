@@ -68,6 +68,11 @@ p{
     margin: 1.5em auto;
 }
 
+.rating-container{
+    margin-bottom: 3em;
+    
+}
+
 
 .rating-card{
     background-color: var(--rating-bg);
@@ -182,6 +187,12 @@ p{
         margin-top: 1.0em;
         
     }
+
+    .rating-container{
+        margin-bottom: 0em;
+        
+    }
+    
 
     .rating-card{
         display: flex;
